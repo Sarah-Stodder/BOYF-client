@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+body {
+  margin: 0;
+  font-family:'Ubuntu', sans-serif !important;
+}
+
+.secondary {
+  padding: 5px,20px;
+  background-color: #2A6A37;
+  color: white;
+  border: none;
+}
+
+.primary{
+  background-color: #2A6A37;
+  padding:5px 20px;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
